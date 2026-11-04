@@ -4,3 +4,6 @@ git commit -m "<message>" => add staged changes to the commited area
 git status => to see working area (tracked, untracked) , staged
 git log => see commited area ( your latest commits)
 .gitignore => files added here are not tracked by git 
+
+
+This is a change
